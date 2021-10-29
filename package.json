@@ -2,7 +2,7 @@
   "name": "can-explorer",
   "version": "0.4.5",
   "private": true,
-  "homepage": "https://cansformer.com/",
+  "homepage": "https://cabana.cansformer.com/",
   "dependencies": {
     "@commaai/comma-api": "^2.1.2",
     "@commaai/hls.js": "^0.12.7",
