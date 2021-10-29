@@ -63,7 +63,8 @@
     "thyming": "^0.1.1",
     "vega": "^5.3.4",
     "vega-lite": "^3.0.0",
-    "vega-tooltip": "^0.4.0"
+    "vega-tooltip": "^0.4.0",
+    "yarn": "^1.22.17"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
